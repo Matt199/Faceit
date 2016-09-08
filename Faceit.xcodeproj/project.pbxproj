@@ -54,14 +54,22 @@
 		C93AC7281D81546400C0944A /* Faceit */ = {
 			isa = PBXGroup;
 			children = (
-				C93AC7291D81546400C0944A /* AppDelegate.swift */,
+				C93AC73B1D8154CF00C0944A /* Supporting Files */,
 				C93AC72B1D81546400C0944A /* ViewController.swift */,
 				C93AC72D1D81546400C0944A /* Main.storyboard */,
+			);
+			path = Faceit;
+			sourceTree = "<group>";
+		};
+		C93AC73B1D8154CF00C0944A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C93AC7291D81546400C0944A /* AppDelegate.swift */,
 				C93AC7301D81546400C0944A /* Assets.xcassets */,
 				C93AC7321D81546400C0944A /* LaunchScreen.storyboard */,
 				C93AC7351D81546400C0944A /* Info.plist */,
 			);
-			path = Faceit;
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
